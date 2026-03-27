@@ -1,0 +1,13 @@
+{
+  "2024900935": {
+    "id": "2024900935",
+    "name": "Vincent Musonda",
+    "program": "COMPUTER SCIENCE",
+    "subjects": {
+      "M111": 60.0,
+      "Ph111": 50.0,
+      "Ict112": 67.0,
+      "Ict111": 55.0
+    }
+  }
+}
